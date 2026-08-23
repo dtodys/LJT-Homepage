@@ -6,7 +6,6 @@ permalink: /publication/2023-composing-parameter-efficient-modules
 excerpt: 'Co-author. Published at NeurIPS 2023.'
 date: 2023-12-01
 venue: 'NeurIPS 2023'
-paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2023/hash/7a8e9b3c5e3b8e0c5e3b8e0c5e3b8e0-Abstract-Conference.html'
 citation: 'Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He. (2023). &quot;Composing Parameter-Efficient Modules with Arithmetic Operations.&quot; <i>NeurIPS 2023</i>.'
 ---
 
